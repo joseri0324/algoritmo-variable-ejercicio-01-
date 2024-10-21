@@ -9,6 +9,6 @@ let num2 = parseInt(prompt
     let total= num1 -descuento
     
     //mostrar resultado//
-    document.write(total,"<br>")
+    document.write("precio"+" "+ total,"<br>")
     
     
