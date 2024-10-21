@@ -1,5 +1,5 @@
 let num1 = parseInt(prompt
-    ("prenda"))
+    ("precio de la prenda"))
     
 let num2 = parseInt(prompt
         ("descuento"))  
